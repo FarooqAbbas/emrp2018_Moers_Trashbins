@@ -7,4 +7,7 @@ The tool for python programming is Jupyter Notebook
 * matplotlib  
 * psycopg2  
 ## The procedure to install the libraries is give below  
+pip install numpy  
+or  
+python -m  pip install --upgrade pip
 
