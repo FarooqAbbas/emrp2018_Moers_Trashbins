@@ -10,7 +10,9 @@ The tool for python programming is Jupyter Notebook
 Before installing any library make sure that path for pip is defined in Environment Variable  
 pip install numpy  
 pip install matplotlib  
-pip install psycopg2  
+pip install psycopg2 
+for working with Jupyter Notebook the installation is as  
+conda install psycopg2  
 or you can upgrade your pip if the is problem in installation
 python -m  pip install --upgrade pip
 
