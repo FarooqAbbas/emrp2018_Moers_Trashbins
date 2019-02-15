@@ -8,6 +8,6 @@ The tool for python programming is Jupyter Notebook
 * psycopg2  
 ## The procedure to install the libraries is give below  
 pip install numpy  
-or  
+or you can upgrade your pip if the is problem in installation
 python -m  pip install --upgrade pip
 
