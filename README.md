@@ -11,7 +11,7 @@ Before installing any library make sure that path for pip is defined in Environm
 pip install numpy  
 pip install matplotlib  
 pip install psycopg2 
-for working with Jupyter Notebook the installation is as  
+for working with Jupyter Notebook the installation is through conda prompt  
 conda install psycopg2  
 or you can upgrade your pip if the is problem in installation
 python -m  pip install --upgrade pip
