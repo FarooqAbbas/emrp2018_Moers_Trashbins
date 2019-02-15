@@ -6,5 +6,5 @@ Following Python Libraries are being used
 * numpy   
 * matplotlib  
 * psycopg2
-The procedure to install the libraries is give below  
+  The procedure to install the libraries is give below  
 
