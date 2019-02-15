@@ -15,4 +15,7 @@ for working with Jupyter Notebook the installation is through Anaconda prompt
 conda install psycopg2  
 or you can upgrade your pip if the is problem in installation
 python -m  pip install --upgrade pip
+## After installing the above mentioned libraries  
+The contains 
+
 
