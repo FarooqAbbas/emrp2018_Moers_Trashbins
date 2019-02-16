@@ -28,4 +28,3 @@ The growth rate for accumulation of garbage is set to 0.25
 
 
 
-
