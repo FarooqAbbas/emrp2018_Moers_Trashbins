@@ -25,7 +25,7 @@ The idea is to measure the level of garbage after 15 minutes
 The bin carrying capacity level is 100  
 The growth rate for accumulation of garbage is set to 0.25  
 ## The Result  
-![](filename latest.png)
+
 
 
 
